@@ -1,0 +1,36 @@
+BCSymbolMap Version: 2.0
+__TFC4cart5ColorD
+__TMaC4cart5Color
+_swift_rt_swift_getInitializedObjCClass
+_swift_rt_swift_slowAlloc
+_swift_rt_swift_slowDealloc
+__TMmC4cart5Color
+__TMnC4cart5Color
+__TWoFC4cart5ColorCfT_S0_
+__TWoFC4cart5Color9cartColorfT_CSo7UIColor
+__TMLC4cart5Color
+__TMfC4cart5Color
+__TMRfC4cart5Color
+__swift_FORCE_LOAD_$_swiftUIKit_$_cart
+__swift_FORCE_LOAD_$_swiftCoreImage_$_cart
+__swift_FORCE_LOAD_$_swiftDarwin_$_cart
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_cart
+__swift_FORCE_LOAD_$_swiftDispatch_$_cart
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_cart
+__swift_FORCE_LOAD_$_swiftFoundation_$_cart
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_cart
+___swift_reflection_version
+_objc_classes
+__TMC4cart5Color
+Apple LLVM version 8.1.0 (clang-802.0.42)
+-emit-bc /Users/prashantrane/MSFT/temp/test_cart/cart/cart/Color.swift -target armv7-apple-ios10.3 -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk -I /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Products/Release-iphoneos -F /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Products/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/prashantrane/Library/Developer/Xcode/DerivedData/ModuleCache -serialize-debugging-options -Xcc -I/Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/cart-generated-files.hmap -Xcc -I/Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/cart-own-target-headers.hmap -Xcc -I/Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/cart-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/cart-project-headers.hmap -Xcc -I/Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Products/Release-iphoneos/include -Xcc -I/Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/DerivedSources/armv7 -Xcc -I/Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/prashantrane/MSFT/temp/test_cart/cart -emit-module-doc-path /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/Objects-normal/armv7/cart.swiftdoc -serialize-diagnostics-path /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/Objects-normal/armv7/Color.dia -O -parse-as-library -module-name cart -emit-module-path /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/Objects-normal/armv7/cart.swiftmodule -emit-objc-header-path /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/Objects-normal/armv7/cart-Swift.h -emit-dependencies-path /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/Objects-normal/armv7/Color.d -num-threads 5 -o /Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/Objects-normal/armv7/Color.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/prashantrane/MSFT/temp/test_cart/cart
+Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)
+/Users/prashantrane/MSFT/temp/test_cart/cart/cart/Color.swift
+_TMaC4cart5Color
+Color.swift
+/Users/prashantrane/MSFT/temp/test_cart/cart/cart
+get_field_types_Color
+deinit
+/Users/prashantrane/Library/Developer/Xcode/DerivedData/cart-dihmbgvhhcxwrcegsakvgaxlhloc/Build/Intermediates/cart.build/Release-iphoneos/cart.build/DerivedSources/cart_vers.c

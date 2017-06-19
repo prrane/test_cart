@@ -1,0 +1,10 @@
+framework module cart {
+  umbrella header "cart.h"
+
+  export *
+  module * { export * }
+}
+
+module cart.Swift {
+    header "cart-Swift.h"
+}
